@@ -14,7 +14,8 @@ Monthly sales trend
 Order status
 Top performing states
 Sales channels contribution
-🛠 Tools Used
+
+--Tools Used --
 Microsoft Excel
 Pivot Tables
 Pivot Charts
